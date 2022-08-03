@@ -1,0 +1,5 @@
+.resources__link {
+  margin: 0 auto;
+  display: flex;
+  transition: transform 4s ease-in-out;
+}

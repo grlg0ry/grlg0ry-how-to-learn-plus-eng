@@ -1,0 +1,12 @@
+.kaufman__triangle {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 438.5px 877px 438.5px;
+  border-color: transparent transparent #007bff transparent;
+  position: absolute;
+  right: -210px;
+  top: 0;
+  z-index: 0;
+  /* animation: rotation 20s linear infinite; animation was moved to the block rotatiion */
+}
